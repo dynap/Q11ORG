@@ -1,0 +1,32 @@
+Jede platform:
+  Menu:
+    Stundenplan (Stunden die vertreten werden sollen hervorgehoben werden)
+    Vertretungsplan (soll in Stundenplan integriert werden)
+    Hausaufgaben (nach zeit bis zum nächsten mal dieses Fach sortiert)
+    Schulaufgaben(plan) (Erinnerungen einstellbar, spezifischer Stoff wird angezeigt)
+    Dokumente (verwalten) (Hefteinträge abrufen, Stoff für SA markiert)
+    Kurse (Personen im Kurs anzeigen)
+    Einstellungen (Einstellmöglichkeiten für Benachrichtigungen etc.)
+
+Windows:
+  Stundenplan:
+    Auswahl zwischen Ansichten: Tag, Woche
+      Anzeige für Tag:
+        Tag auswählen (normal: heute)
+        von links nach rechts alle Stunden angezeigt, unter stunden Informationen zu:
+          - Lehrer
+          - Zeit
+          - Hausaufgaben
+          - nächster Leistungsnachweis
+      Anzeige für Woche:
+        Tabellenansicht:
+          y-Achse: Zeiten
+          x-Achse: Tage
+          Infos: Lehrer, Zeit
+          Wenn man auf kästchen klickt:
+            Hausaufgaben, nächster Leistungsnachweis
+  Vertretungsplan:
+    Tabelle:
+      wie Vertretungsplan in der Schule, jedoch nur Q11/Q12 angezeigt
+  Hausaufgaben:
+    Nach fach sortiert, wie Ordner
